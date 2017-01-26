@@ -525,5 +525,5 @@ module.exports = [{
     "wiki_name": "eastern_gray_squirrel",
     "photo": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Eastern_Grey_Squirrel.jpg",
     "small_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Eastern_Grey_Squirrel.jpg/200px-Eastern_Grey_Squirrel.jpg",
-    "description": "Sciurus carolinensis, common name eastern gray squirrel or grey squirrel depending on region, is a tree squirrel in the genus Sciurus. It is native to eastern North America, but has since been introduced to European regions where it has become an invasive species.The eastern gray squirrel has predominantly gray fur, but it can have a brownish color. It has a usual white underside as compared to the typical brownish-orange underside of the fox squirrel.[8] It has a large bushy tail."
+    "description": "Sciurus carolinensis, common name eastern gray squirrel or grey squirrel depending on region, is a tree squirrel in the genus Sciurus. It is native to eastern North America, but has since been introduced to European regions where it has become an invasive species.The eastern gray squirrel has predominantly gray fur, but it can have a brownish color. It has a usual white underside as compared to the typical brownish-orange underside of the fox squirrel. It has a large bushy tail."
 }];
